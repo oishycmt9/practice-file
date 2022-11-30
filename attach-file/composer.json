@@ -1,0 +1,17 @@
+{
+    "name": "aditya/attach-file",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oishy Barua",
+            "email": "oishy.cmt9@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.63"
+    }
+}
